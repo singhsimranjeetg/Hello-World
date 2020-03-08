@@ -1,4 +1,4 @@
-# Hello to Coders of planet Earth,
+# Hello to Coders on planet Earth,
 
 Wish me good luck for my GitHub journey.
  
